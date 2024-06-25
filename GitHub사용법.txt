@@ -4,6 +4,6 @@ Add : 내 PC에서 작업한 파일들을 Stage에 추가
 Commit : Stage에 올라온 파일들을 가지고 내 PC에 저장(Save)
 Push : Commit들을 원격 저장소에 업로드
 CheckOut : 코드뭉치 올리기, 버리기
-	CheckOut을 이용하여 저장하지 않은 내용 취소하기
-	CheckOut을 이용하여 전에 올렸던 내용 추가하기
-Pull: 당기기 원격 저장소에 있는 내용 가져오기
+	CheckOut을 이용하여 전에 올렸던 내용 추가하기		[올리기]
+	CheckOut을 이용하여 저장하지 않은 내용 취소하기	[버리기]
+Pull: 당기기 원격 저장소에 있는(제작한) 파일 가져오기
