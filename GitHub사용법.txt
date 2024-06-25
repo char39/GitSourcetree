@@ -1,0 +1,5 @@
+https://github.com/char39/GitSourcetree.git
+Clone : 원격 저장소(Github)을 내 PC에 복사해 온다.
+Add : 내 PC에서 작업한 파일들을 Stage에 추가
+Commit : Stage에 올라온 파일들을 가지고 내 PC에 저장(Save)
+Push : Commit들을 원격 저장소에 업로드
